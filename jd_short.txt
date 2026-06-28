@@ -1,0 +1,15 @@
+Company: CMC Global
+Position: Business Analyst (Senior)
+Contact HR: npthu@cmcglobal.vn
+
+Core Responsibilities:
+- Gather, analyze, and document business requirements from stakeholders and clients.
+- Create and maintain Business Requirement Documents (BRD), Functional Specification Documents (FSD), User Stories, Use Cases, and process flows.
+- Collaborate closely with UI/UX designers, developers, QA engineers, and project managers throughout the SDLC.
+- Support UAT activities, prepare test scenarios, and manage requirement changes.
+
+Key Requirements:
+- Minimum 3 years of experience as a Business Analyst in software development projects.
+- Strong experience in requirement gathering, business process analysis, and technical documentation.
+- Good understanding of Software Development Life Cycle (SDLC) and Agile/Scrum methodologies.
+- Familiarity with tools such as Jira, Confluence, Visio, or similar tools.

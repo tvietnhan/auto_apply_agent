@@ -1,0 +1,21 @@
+Name: TRAN VIET NHAN (Senior Business Analyst / Team Lead)[cite: 1]
+Contact: tvietnhan@gmail.com | 0919 337 423[cite: 1]
+Education: Master of Science in Information Technology (VNUHCM-UIT)[cite: 1]
+
+Core Summary:
+Over 10 years in IT as Developer, Team Lead, Project Leader, Business Analyst, and Tester[cite: 1]. Strong expertise in Process QA/QC, project workflow setup (Redmine, SVN), and database/basic design[cite: 1].
+
+Key Professional Experience:
+1. IVS CO., LTD (10/2022 - 06/2024) - Role: BA, Tester, Team Lead[cite: 1]
+- Analyzed & designed business processes for Production, Inventory, and HR Management software[cite: 1].
+- Gathered requirements, built Basic Design (BD) documents, designed databases, and led system testing[cite: 1].
+- Managed release schedules, project progress, and workload estimation for a team of 4-5 members[cite: 1].
+
+2. INDIVIDUAL SYSTEMS CO. (07/2010 - 12/2013) - Role: Project Leader, BA, QA, Tester[cite: 1]
+- Managed software timelines, assigned tasks, and handled client communication[cite: 1].
+- Contributed to internal QA/QC work: training staff, guiding processes, and workflow optimization[cite: 1].
+
+Technical Skills:
+- Analysis: Basic Design (BD), System Analyst, System Testing, Wireframes[cite: 1].
+- Tech stack: C#, Python, Java, SQL Server, MySQL, PostgreSQL, Redmine[cite: 1].
+- Certifications: Google AI Essentials (2026), Gemini Certified Faculty (2025), ISTQB Foundation (2024)[cite: 1].
